@@ -5,13 +5,15 @@
     "curso": "Análise e Desenvolvimento de Sistemas",
     "status": "ativo",
     "matricula": "07/2025",
-    "foto": "https://mfrancy.github.io/json-db/assets/824214769.webp"
+    "foto": "https://mfrancy.github.io/json-db/assets/824214769.jpg"
   },
   "824214768": {
     "senha": "100603",
     "nome": "Mariana Lopes ",
     "curso": "Análise e Desenvolvimento de Sistemas",
     "status": "ativo",
-    "matricula": "07/2025"
+    "matricula": "07/2025",
+    "foto": "https://mfrancy.github.io/json-db/assets/824214768.webp"
+
   }
 }
