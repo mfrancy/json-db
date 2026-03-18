@@ -15,7 +15,7 @@
     "curso": "Medicina",
     "status": "ativo",
     "matricula": "01/2023",
-    "foto": "assets/824214768.jpeg",
+    "foto": "https://mfrancy.github.io/json-db/assets/824214768.jpeg",
     "documento": "60.357.366-6"
   }
 }
