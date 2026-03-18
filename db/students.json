@@ -5,15 +5,17 @@
     "curso": "Análise e Desenvolvimento de Sistemas",
     "status": "ativo",
     "matricula": "07/2025",
-    "foto": "https://mfrancy.github.io/json-db/assets/824214769.jpg"
+    "foto": "https://mfrancy.github.io/json-db/assets/824214769.jpg",
+    "documento": "50.201.195-6"
+    
   },
   "824214768": {
-    "senha": "100603",
-    "nome": "Mariana Lopes ",
-    "curso": "Análise e Desenvolvimento de Sistemas",
+    "senha": "123456",
+    "nome": "Gustavo Maian Santos",
+    "curso": "Medicina",
     "status": "ativo",
-    "matricula": "07/2025",
-    "foto": "https://mfrancy.github.io/json-db/assets/824214768.webp"
-
+    "matricula": "01/2023",
+    "foto": "assets/824214768.jpeg",
+    "documento": "60.357.366-6"
   }
 }
